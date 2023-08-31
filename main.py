@@ -6,7 +6,7 @@ import folium
 
 def main():
 
-    background_front(url="https://medias.objectifgard.com/api/v1/images/view/6363e8dcb8e2787e72787ae6/article/image.jpg")
+    #background_front(url="https://medias.objectifgard.com/api/v1/images/view/6363e8dcb8e2787e72787ae6/article/image.jpg")
     st.title("WEATHER city France")
 
     # Input choix d'une ville.
